@@ -128,7 +128,9 @@ nav {
     .comparison-section {
         overflow-x: auto;
     }
-
+    .pricing-header{
+        overflow-y: auto;
+    }
     .faq-section {
         width: 90%;
         margin: 20px auto;
